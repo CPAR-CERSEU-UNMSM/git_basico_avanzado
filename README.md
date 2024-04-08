@@ -1,1 +1,1 @@
-# git_basico_avanzado
+# Curso de Versión de Control GIT básico y avanzado
