@@ -9,11 +9,11 @@
 
 Explorar además:
 - [ ] _Remotos_
-- [ ] _commit hash_
-- [ ] _git log_
-- [ ] _git diff_
-- [ ] _git stash_
-- [ ] _git revert_
-- [ ] _git reset --hard_
-- [ ] _git commit --amend_
+- [ ] _Hash de un commit_
+- [ ] `git log`
+- [ ] `git diff`
+- [ ] `git stash`
+- [ ] `git revert`
+- [ ] `git reset --hard`
+- [ ] `git commit --amend`
 
