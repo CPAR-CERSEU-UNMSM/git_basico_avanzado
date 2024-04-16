@@ -8,9 +8,11 @@
 6. Localmente, hacer cambios a tales archivos y repetir el ciclo de trabajo
 
 Explorar además:
-- _Remotes_
-- _commit hash_
-- _git stash_
-- _git revert_
-- _git reset --hard_
+- [ ] _Remotos_
+- [ ] _commit hash_
+- [ ] _git log_
+- [ ] _git diff_
+- [ ] _git stash_
+- [ ] _git revert_
+- [ ] _git reset --hard_
 
