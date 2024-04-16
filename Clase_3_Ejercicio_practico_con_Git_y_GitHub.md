@@ -7,5 +7,10 @@
 5. Guardar tales archivos en su repositorio en GitHub
 6. Localmente, hacer cambios a tales archivos y repetir el ciclo de trabajo
 
-Explorar además: _commit hash_, _git stash_, _revert_, _git reset --hard_
+Explorar además:
+- _Remotes_
+- _commit hash_
+- _git stash_
+- _git revert_
+- _git reset --hard_
 
