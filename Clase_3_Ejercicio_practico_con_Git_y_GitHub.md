@@ -15,4 +15,5 @@ Explorar además:
 - [ ] _git stash_
 - [ ] _git revert_
 - [ ] _git reset --hard_
+- [ ] _git commit --amend_
 
