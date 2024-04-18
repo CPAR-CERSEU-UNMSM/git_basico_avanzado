@@ -16,4 +16,5 @@ Explorar además:
 - [ ] `git revert`
 - [ ] `git reset --hard`
 - [ ] `git commit --amend`
+- [ ] Repositorios espejos
 
