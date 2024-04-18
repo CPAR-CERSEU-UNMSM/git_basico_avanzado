@@ -5,3 +5,4 @@
 3. _Tags_
 4. _Merging branches_
 5. _Pull Request en GitHub_
+6. Submodulos, `git clone --recursive`
