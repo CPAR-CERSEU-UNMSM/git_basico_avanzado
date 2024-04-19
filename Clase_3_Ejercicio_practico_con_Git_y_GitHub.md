@@ -17,4 +17,5 @@ Explorar además:
 - [ ] `git reset --hard`
 - [ ] `git commit --amend`
 - [ ] Repositorios espejos
+- [ ] gitignore
 
