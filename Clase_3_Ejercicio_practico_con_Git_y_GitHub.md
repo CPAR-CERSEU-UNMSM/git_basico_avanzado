@@ -8,14 +8,16 @@
 6. Localmente, hacer cambios a tales archivos y repetir el ciclo de trabajo
 
 Explorar además:
-- [ ] _Remotos_
-- [ ] _Hash de un commit_
-- [ ] `git log`
-- [ ] `git diff`
+
+- [x] _Hash de un commit_
+- [x] `git log`
+- [x] `git diff`
 - [ ] `git stash`
 - [ ] `git revert`
 - [ ] `git reset --hard`
-- [ ] `git commit --amend`
+- [x] `git commit --amend`
+- [ ] `git commit --amend` after pushing to remote repository
+- [ ] _Remotos_
 - [ ] Repositorios espejos
 - [ ] gitignore
 
