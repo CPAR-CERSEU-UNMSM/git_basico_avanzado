@@ -13,7 +13,7 @@ Explorar además:
 - [x] `git log`
 - [x] `git diff`
 - [x] `git commit --amend`
-- [x] _Remotos_
+- [x] Repositorios remotos
 - [x] Repositorios espejos
 - [x] Ramas
 - [x] gitignore
