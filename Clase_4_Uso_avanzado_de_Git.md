@@ -6,3 +6,7 @@
 4. _Merging branches_
 5. _Pull Request en GitHub_
 6. Submodulos, `git clone --recursive`
+- [ ] `git commit --amend` after pushing to remote repository
+- [ ] - [ ] `git stash`
+- [ ] `git revert`
+- [ ] `git reset --hard`
