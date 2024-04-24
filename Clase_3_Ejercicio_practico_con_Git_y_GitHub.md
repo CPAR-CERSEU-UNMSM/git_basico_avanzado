@@ -16,8 +16,7 @@ Explorar además:
 - [ ] `git revert`
 - [ ] `git reset --hard`
 - [x] `git commit --amend`
-- [ ] `git commit --amend` after pushing to remote repository
-- [ ] _Remotos_
-- [ ] Repositorios espejos
-- [ ] gitignore
+- [x] _Remotos_
+- [x] Repositorios espejos
+- [x] gitignore
 
