@@ -15,5 +15,6 @@ Explorar además:
 - [x] `git commit --amend`
 - [x] _Remotos_
 - [x] Repositorios espejos
+- [x] Ramas
 - [x] gitignore
 
