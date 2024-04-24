@@ -12,9 +12,6 @@ Explorar además:
 - [x] _Hash de un commit_
 - [x] `git log`
 - [x] `git diff`
-- [ ] `git stash`
-- [ ] `git revert`
-- [ ] `git reset --hard`
 - [x] `git commit --amend`
 - [x] _Remotos_
 - [x] Repositorios espejos
